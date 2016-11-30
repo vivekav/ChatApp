@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "827741494934",
-    "firebase_url": "https://chat-app-44e22.firebaseio.com",
-    "project_id": "chat-app-44e22",
-    "storage_bucket": "chat-app-44e22.appspot.com"
+    "project_number": "651213788966",
+    "firebase_url": "https://chatapp-e58db.firebaseio.com",
+    "project_id": "chatapp-e58db",
+    "storage_bucket": "chatapp-e58db.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:827741494934:android:185d00e6ffb0319c",
+        "mobilesdk_app_id": "1:651213788966:android:185d00e6ffb0319c",
         "android_client_info": {
           "package_name": "com.jeff.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "827741494934-jbg7b7d7fa48sqt56ibp6p9n00ltkaeb.apps.googleusercontent.com",
+          "client_id": "651213788966-r1kbs9ceej20ft7e7kpb22ohr8h2om0u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDxtaVimAgzc_fhai-fXVo_JXIu0265VSQ"
+          "current_key": "AIzaSyDdAw8i4KLwyebXYyd3ZSPi5wsKM_ctP2A"
         }
       ],
       "services": {
